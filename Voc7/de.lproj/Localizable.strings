@@ -1,0 +1,150 @@
+/*
+ Localizable.strings
+ ProjectOmega
+ 
+ Created by Maximilian Scheurer on 15.04.13.
+ Copyright (c) 2013 PetJan. All rights reserved.
+ */
+
+
+/* --- Vokabelabfrage */
+
+/* RootVC */
+"Abfrage" = "Abfrage";
+"Liste auswählen" = "Liste auswählen";
+"Sammlung auswählen" = "Sammlung auswählen";
+"Keine Liste vorhanden" = "Keine Liste vorhanden";
+"Liste erstellen" = "Liste erstellen";
+"Liste leer" = "Liste leer";
+"Fertig!" = "Fertig!";
+"Sammlung leer" = "Sammlung leer";
+"Sammlung erstellen" = "Sammlung erstellen";
+"Richtig!" = "Richtig!";
+"Falsch: %@" = "Falsch: %@";
+"Lösung:" = "Lösung:";  // Answer?
+"Nächste Vokabel" = "Nächste Vokabel";
+"Check" = "Check";
+
+/* SelectKategorieVC */
+"Sammlungen" = "Sammlungen";
+"Listen" = "Listen";
+
+// VocView
+"%d/%d sicher" = "%d/%d sicher";
+
+
+/* Kategorie */
+
+"Neue Liste" = "Neue Liste";
+"Sprache 1" = "Englisch";
+"Sprache 2" = "Französisch";
+"Sprache 3" = "Spanisch";
+"Sprache 4" = "Italienisch";
+"Sprache 5" = "Portugiesisch";
+"Sprache 6" = "Russisch";
+"Sprache 7" = "Griechisch";
+"Name der Liste:" = "Name der Liste:";
+"Hinzufügen" = "Hinzufügen";
+"Bearbeiten" = "Bearbeiten";
+"BearbeitenSprache" = "Bearbeiten";
+"Sprache\/Thema:" = "Sprache\/Thema:";
+
+/* Vokabelliste */
+
+"Löschen (0)" = "Löschen (0)";
+"Löschen (%d)" = "Löschen (%d)";
+"Abbrechen" = "Abbrechen";
+"Aus iTunes importieren" = "Aus iTunes importieren";
+"Via iTunes exportieren" = "Via iTunes exportieren";
+"Via Mail senden" = "Via Mail senden";
+"Alle Vokabeln dieser Liste löschen?" = "Alle Vokabeln dieser Liste löschen?";
+"Löschen" = "Löschen";
+"Vokabel" = "Vokabel";
+"hinzugefügt" = "hinzugefügt";
+"Laden..." = "Laden...";
+"Zu Liste hinzufügen (0)" = "Zu Liste hinzufügen (0)";
+"Zu Liste hinzufügen (%d)" = "Zu Liste hinzufügen (%d)";
+
+// remove later
+"Deutsch:" = "Deutsch:";
+"Deutsch" = "Deutsch";
+
+"Neue Vokabel" = "Neue Vokabel";
+"Bild hinzufügen" = "Bild hinzufügen";
+"Vokabel hinzufügen" = "Vokabel hinzufügen";
+"Aus Album auswählen" = "Aus Album auswählen";
+"Foto aufnehmen" = "Foto aufnehmen";
+"Foto löschen" = "Foto löschen";
+"Neues Foto auswählen" = "Neues Foto auswählen";
+"Reminder" = "Reminder";
+"Bild:" = "Bild:";
+"Bild bearbeiten" = "Bild bearbeiten";
+
+"Richtig:" = "Richtig:";
+"Falsch:" = "Falsch:";
+
+/* File Controller */
+
+"Exportieren" = "Exportieren";
+"Backup exportieren" = "Backup exportieren";
+"Vorhandene Backups anzeigen" = "Vorhandene Backups anzeigen";
+"Vorhandene Backups ausblenden" = "Vorhandene Backups ausblenden";
+"Backups" = "Backups";
+"dd-MM-YY HH:mm" = "dd-MM-YY HH:mm";
+"Backup exportiert" = "Backup erstellt";
+"Das Backup wurde erfolgreich in iTunes gespeichert." = "Das Backup wurde erfolgreich gespeichert.";
+
+/* Statistik */
+
+"Statistik" = "Statistik";
+"Sammlung" = "Sammlung";
+"Liste" = "Liste";
+":  Noch nicht sicher (%d %%)" = ": Noch nicht sicher (%d %%)";
+"Liste: %@" = "Liste: %@";
+"Sammlung: %@" = "Sammlung: %@";
+":  Keine Liste ausgewählt" = ": Keine Liste ausgewählt";
+":  Sicher (%d %%)" = ": Sicher (%d %%)";
+"Anteil richtiger Lösungen insgesamt" = "Anteil richtiger Lösungen insgesamt";
+
+/* Einstellungen */
+
+"Einstellungen" = "Einstellungen";
+"Schwellenwert der Vokabeln" = "Schwellenwert der Vokabeln";
+"Schwellenwert" = "Schwellenwert";
+"Abfragerichtung" = "Abfragerichtung";
+"Sichere ausblenden" = "Sichere ausblenden";
+"Sortierung" = "Sortierung";
+"Bilder ausblenden" = "Bilder ausblenden";
+"Backup" = "Backup";
+"Vokabelabfrage" = "Vokabelabfrage";
+"Datenmanagement" = "Datenmanagement";
+"Muttersprache" = "Muttersprache";
+"Fremdsprache" = "Fremdsprache";
+"Zähler zurücksetzen" = "Zähler zurücksetzen";
+"Zurücksetzen" = "Zurücksetzen";
+"Alle zurücksetzen" = "Alle zurücksetzen";
+"Wirklich alle Wörter zurücksetzen?" = "Wirklich alle Wörter zurücksetzen?";
+"Wirklich zurücksetzen?" = "Wirklich zurücksetzen?";
+"Ja" = "Ja";
+"Nein" = "Nein";
+"Zurücksetzen (%d)" = "Zurücksetzen (%d)";
+"Zurücksetzen (0)" = "Zurücksetzen (0)";
+"Name" = "Name";
+"Datum" = "Datum";
+"Keine Sortierung" = "Keine Sortierung";
+"Aufsteigend" = "Aufsteigend";
+"Absteigend" = "Absteigend";
+"Sortierung nach:" = "Sortierung nach:";
+"Richtung:" = "Richtung:";
+"Wirklich alle Daten in Vocabularious überschreiben?" = "Wirklich alle Daten in Vocabularious überschreiben?";
+
+// Sammlung
+
+"Alle Vokabeln dieser Sammlung löschen?" = "Alle Vokabeln dieser Sammlung löschen?";
+"Neue Sammlung" = "Neue Sammlung";
+
+"Fertig" = "Fertig";
+"Zurück" = "Zurück";
+"Fremdsprachen" = "Fremdsprachen";
+
+"Es dürfen nicht alle Fremdsprachen gelöscht werden!" = "Es dürfen nicht alle Fremdsprachen gelöscht werden!";

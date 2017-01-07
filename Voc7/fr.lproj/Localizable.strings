@@ -1,0 +1,151 @@
+/*
+ Localizable.strings
+ ProjectOmega
+ 
+ Created by Maximilian Scheurer on 15.04.13.
+ Copyright (c) 2013 PetJan. All rights reserved.
+ */
+
+
+/* --- Vokabelabfrage */
+
+/* RootVC */
+"Abfrage" = "Question";
+"Liste auswählen" = "Choisir Liste";
+"Sammlung auswählen" = "Choisir Collection";
+"Keine Liste vorhanden" = "Pas de Listes";
+"Liste erstellen" = "Créer une liste";
+"Liste leer" = "Liste vide";
+"Fertig!" = "Fini!";
+"Sammlung leer" = "Collection vide";
+"Sammlung erstellen" = "Créer une collection";
+"Richtig!" = "Correct!";
+"Falsch: %@" = "Faux: %@";
+"Lösung:" = "Réponse:";  // Answer?
+"Nächste Vokabel" = "Mot suivant";
+"Check" = "Vérifier"; // Valider
+
+/* SelectKategorieVC */
+"Sammlungen" = "Collections";
+"Listen" = "Listes";
+
+// VocView
+"%d/%d sicher" = "%d/%d appris";
+
+
+/* Kategorie */
+
+"Neue Liste" = "Nouvelle Liste";
+"Sprache 1" = "Anglais";
+"Sprache 2" = "Allemand";
+"Sprache 3" = "Italien";
+"Sprache 4" = "Espagnol";
+"Sprache 5" = "Portuguais";
+"Sprache 6" = "Latin";
+"Sprache 7" = "Chinois";
+"Name der Liste:" = "Titre:";
+"Hinzufügen" = "Ajouter";
+"Bearbeiten" = "Modifier";
+"BearbeitenSprache" = "Modifier";
+"Sprache\/Thema:" = "Langue\/Thème:";
+
+/* Vokabelliste */
+
+"Löschen (0)" = "Supprimer (0)";
+"Löschen (%d)" = "Supprimer (%d)";
+"Abbrechen" = "Annuler";
+"Aus iTunes importieren" = "Importer des mots";
+"Via iTunes exportieren" = "Exporter des mots";
+"Via Mail senden" = "Envoyer par mail";
+"Alle Vokabeln dieser Liste löschen?" = "Supprimer tous les mots de la Liste?";
+"Löschen" = "Supprimer";
+"Vokabel" = "Mot";
+"hinzugefügt" = "ajouté";
+"Laden..." = "Chargement en cours...";
+"Zu Liste hinzufügen (0)" = "Ajoutér à liste (0)";
+"Zu Liste hinzufügen (%d)" = "Ajoutér à liste (%d)";
+
+// remove later
+"Deutsch:" = "Français:";
+"Deutsch" = "Français";
+
+"Neue Vokabel" = "Nouveau Mot";
+"Bild hinzufügen" = "Ajouter une image";
+"Vokabel hinzufügen" = "Ajouter un mot";
+"Aus Album auswählen" = "Choisir existante";
+"Foto aufnehmen" = "Prendre photo";
+"Foto löschen" = "Supprimer photo";
+"Neues Foto auswählen" = "Choisir nouvelle photo";
+"Reminder" = "Reminder"; // Rappel?
+"Bild:" = "Image:";
+"Bild bearbeiten" = "Modifier l'image";
+
+"Richtig:" = "Correct:";
+"Falsch:" = "Faux:";
+
+/* File Controller */
+
+"Exportieren" = "Exporter";
+"Backup exportieren" = "Enregistrer sauvegarde"; //Exporter
+"Vorhandene Backups anzeigen" = "Monter sauvegardes disponibles";
+"Vorhandene Backups ausblenden" = "Fermer sauvegardes disponibles";
+"Backups" = "Sauvegardes";
+"dd-MM-YY HH:mm" = "dd-MM-YY HH:mm";
+"Backup exportiert" = "Sauvegarde créée";
+"Das Backup wurde erfolgreich in iTunes gespeichert." = "La sauvegarde a été enregistrée.";
+
+/* Statistik */
+
+"Statistik" = "Statistique";
+"Sammlung" = "Collection";
+"Liste" = "Liste";
+":  Noch nicht sicher (%d %%)" = ": Ne pas encore appris (%d %%)";
+"Liste: %@" = "Liste: %@";
+"Sammlung: %@" = "Collection: %@";
+":  Keine Liste ausgewählt" = ": Pas de liste choisie";
+":  Sicher (%d %%)" = ": Appris (%d %%)";
+"Anteil richtiger Lösungen insgesamt" = "Pourcentage des solutions correctes";
+
+/* Einstellungen */
+
+"Einstellungen" = "Réglages";
+"Schwellenwert der Vokabeln" = "Limite des mots";
+"Schwellenwert" = "Limite";
+"Abfragerichtung" = "Direction";
+"Sichere ausblenden" = "Ne pas monter mots appris";
+"Sortierung" = "Triage";
+"Bilder ausblenden" = "Ne pas monter images";
+"Backup" = "Sauvegarde";
+"Vokabelabfrage" = "Questions";
+"Datenmanagement" = "Management des données";
+"Muttersprache" = "Langue maternelle";
+"Fremdsprache" = "Langue étrangère";
+"Zähler zurücksetzen" = "Remise des numérateurs"; // remettre
+"Zurücksetzen" = "Remettre";
+"Alle zurücksetzen" = "Remettre tous";
+"Wirklich alle Wörter zurücksetzen?" = "Remettre le numérateur de tous les mots?";
+"Wirklich zurücksetzen?" = "Remettre mots choisis?";
+"Ja" = "Oui";
+"Nein" = "Non";
+"Zurücksetzen (%d)" = "Remettre (%d)";
+"Zurücksetzen (0)" = "Remettre (0)";
+"Name" = "Nom";
+"Datum" = "Date";
+"Keine Sortierung" = "Sans triage";
+"Aufsteigend" = "Ascendant";
+"Absteigend" = "Descendant";
+"Sortierung nach:" = "Trier par:"; // triage, trier par; assortir/classer + ?
+"Richtung:" = "Direction:";
+"Wirklich alle Daten in Vocabularious überschreiben?" = "Écraser tous les données de Vocabularious";
+
+// Sammlung
+
+"Alle Vokabeln dieser Sammlung löschen?" = "Supprimer tous les mots de cette collection?";
+"Neue Sammlung" = "Nouvelle Collection";
+
+"Fertig" = "OK";
+"Zurück" = "Retour";
+"Fremdsprachen" = "Langues étrangères";
+
+"Es dürfen nicht alle Fremdsprachen gelöscht werden!" = "Impossible de supprimer toutes les langues étrangères!";
+"Nicht erlaubt" = "Inderdit";

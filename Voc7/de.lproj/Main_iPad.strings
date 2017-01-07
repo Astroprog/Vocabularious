@@ -1,0 +1,51 @@
+
+/* Class = "IBUILabel"; text = "wordhome"; ObjectID = "0oC-Xs-lrs"; */
+"0oC-Xs-lrs.text" = "wordhome";
+
+/* Class = "IBUITabBarItem"; title = "Preferences"; ObjectID = "2NR-P8-rgP"; */
+"2NR-P8-rgP.title" = "Preferences";
+
+/* Class = "IBUIViewController"; title = "Question"; ObjectID = "7GT-1z-eub"; */
+"7GT-1z-eub.title" = "Question";
+
+/* Class = "IBUIBarButtonItem"; title = "Select List"; ObjectID = "UBZ-C2-Ejy"; */
+"UBZ-C2-Ejy.title" = "Select List";
+
+/* Class = "IBUINavigationController"; title = "Collections"; ObjectID = "ZVo-j1-YFt"; */
+"ZVo-j1-YFt.title" = "Collections";
+
+/* Class = "IBUILabel"; text = "Sprache"; ObjectID = "gOx-5S-QHf"; */
+"gOx-5S-QHf.text" = "Sprache";
+
+/* Class = "IBUITabBarItem"; title = "Lists"; ObjectID = "hXb-0g-VnZ"; */
+"hXb-0g-VnZ.title" = "Lists";
+
+/* Class = "IBUIBarButtonItem"; title = "Select Collection"; ObjectID = "jT0-rm-NnH"; */
+"jT0-rm-NnH.title" = "Select Collection";
+
+/* Class = "IBUIViewController"; title = "Statistics"; ObjectID = "kUr-dn-bjh"; */
+"kUr-dn-bjh.title" = "Statistics";
+
+/* Class = "IBUINavigationItem"; title = "Lists"; ObjectID = "lfv-zr-8oE"; */
+"lfv-zr-8oE.title" = "Lists";
+
+/* Class = "IBUINavigationItem"; title = "Questions"; ObjectID = "mcn-ET-beu"; */
+"mcn-ET-beu.title" = "Questions";
+
+/* Class = "IBUITabBarItem"; title = "Questions"; ObjectID = "nCX-E2-mTo"; */
+"nCX-E2-mTo.title" = "Questions";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "nqc-6F-UIx"; */
+"nqc-6F-UIx.text" = "Name";
+
+/* Class = "IBUINavigationController"; title = "Lists"; ObjectID = "qqW-2b-6KZ"; */
+"qqW-2b-6KZ.title" = "Lists";
+
+/* Class = "IBUITabBarItem"; title = "Collections"; ObjectID = "u7Z-8Z-pu7"; */
+"u7Z-8Z-pu7.title" = "Collections";
+
+/* Class = "IBUILabel"; text = "home"; ObjectID = "vBJ-W1-8kI"; */
+"vBJ-W1-8kI.text" = "home";
+
+/* Class = "IBUITabBarItem"; title = "Statistics"; ObjectID = "zIr-c7-UNW"; */
+"zIr-c7-UNW.title" = "Statistics";

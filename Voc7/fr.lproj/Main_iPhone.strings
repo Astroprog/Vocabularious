@@ -1,0 +1,93 @@
+
+/* Class = "IBUITabBarItem"; title = "Preferences"; ObjectID = "1nH-u1-xji"; */
+"1nH-u1-xji.title" = "Preferences";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4uh-zS-iqj"; */
+"4uh-zS-iqj.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Root View Controller"; ObjectID = "5d2-47-u2J"; */
+"5d2-47-u2J.title" = "Root View Controller";
+
+/* Class = "IBUINavigationItem"; title = "Lists"; ObjectID = "8Eq-bs-wUa"; */
+"8Eq-bs-wUa.title" = "Lists";
+
+/* Class = "IBUISegmentedControl"; 8Nb-bh-TkY.segmentTitles[0] = "Back"; ObjectID = "8Nb-bh-TkY"; */
+"8Nb-bh-TkY.segmentTitles[0]" = "Back";
+
+/* Class = "IBUISegmentedControl"; 8Nb-bh-TkY.segmentTitles[1] = "Next"; ObjectID = "8Nb-bh-TkY"; */
+"8Nb-bh-TkY.segmentTitles[1]" = "Next";
+
+/* Class = "IBUITabBarItem"; title = "Lists"; ObjectID = "Cox-ay-AjQ"; */
+"Cox-ay-AjQ.title" = "Lists";
+
+/* Class = "IBUIBarButtonItem"; title = "Add Word"; ObjectID = "Dvs-CB-yMg"; */
+"Dvs-CB-yMg.title" = "Add Word";
+
+/* Class = "IBUITabBarItem"; title = "Questions"; ObjectID = "Hf2-im-k19"; */
+"Hf2-im-k19.title" = "Questions";
+
+/* Class = "IBUILabel"; text = "home"; ObjectID = "LQN-d8-yMg"; */
+"LQN-d8-yMg.text" = "home";
+
+/* Class = "IBUIButton"; normalTitle = "Backup exportieren"; ObjectID = "MqM-r9-191"; */
+"MqM-r9-191.normalTitle" = "Backup exportieren";
+
+/* Class = "IBUITabBarItem"; title = "Collections"; ObjectID = "PNV-Mm-B1Q"; */
+"PNV-Mm-B1Q.title" = "Collections";
+
+/* Class = "IBUILabel"; text = "Reminder:"; ObjectID = "Q2U-jl-hup"; */
+"Q2U-jl-hup.text" = "Reminder:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Qfc-AQ-FBR"; */
+"Qfc-AQ-FBR.text" = "Label";
+
+/* Class = "IBUIViewController"; title = "Statistics"; ObjectID = "RPB-KM-KDp"; */
+"RPB-KM-KDp.title" = "Statistics";
+
+/* Class = "IBUILabel"; text = "foreign"; ObjectID = "RQu-bS-dyH"; */
+"RQu-bS-dyH.text" = "foreign";
+
+/* Class = "IBUIBarButtonItem"; title = "Select List"; ObjectID = "TTb-a0-QvJ"; */
+"TTb-a0-QvJ.title" = "Select List";
+
+/* Class = "IBUILabel"; text = "Reminder:"; ObjectID = "Vic-A8-VtV"; */
+"Vic-A8-VtV.text" = "Reminder:";
+
+/* Class = "IBUINavigationController"; title = "Lists"; ObjectID = "VyI-z8-lxz"; */
+"VyI-z8-lxz.title" = "Lists";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "XUY-aa-s5D"; */
+"XUY-aa-s5D.text" = "Label";
+
+/* Class = "IBUILabel"; text = "File name:"; ObjectID = "Yr2-75-kIt"; */
+"Yr2-75-kIt.text" = "File name:";
+
+/* Class = "IBUIViewController"; title = "Question"; ObjectID = "cs1-Bg-HUl"; */
+"cs1-Bg-HUl.title" = "Question";
+
+/* Class = "IBUINavigationItem"; title = "Questions"; ObjectID = "ePg-nE-F76"; */
+"ePg-nE-F76.title" = "Questions";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "fpD-H0-J2v"; */
+"fpD-H0-J2v.text" = "Label";
+
+/* Class = "IBUINavigationController"; title = "Collections"; ObjectID = "mYU-Do-mOO"; */
+"mYU-Do-mOO.title" = "Collections";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ss1-iI-F7S"; */
+"ss1-iI-F7S.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Select Collection"; ObjectID = "uJs-mv-MpK"; */
+"uJs-mv-MpK.title" = "Select Collection";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "w3p-kC-AkW"; */
+"w3p-kC-AkW.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "x95-Rl-c0f"; */
+"x95-Rl-c0f.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Sprache"; ObjectID = "xdC-iT-JIt"; */
+"xdC-iT-JIt.text" = "Sprache";
+
+/* Class = "IBUITabBarItem"; title = "Statistics"; ObjectID = "yUA-D3-eDk"; */
+"yUA-D3-eDk.title" = "Statistics";

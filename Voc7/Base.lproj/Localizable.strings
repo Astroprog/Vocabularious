@@ -1,0 +1,151 @@
+/* 
+  Localizable.strings
+  ProjectOmega
+
+  Created by Maximilian Scheurer on 15.04.13.
+  Copyright (c) 2013 PetJan. All rights reserved.
+*/
+
+
+/* --- Vokabelabfrage */
+
+/* RootVC */
+"Abfrage" = "Question";
+"Liste auswählen" = "Select List";
+"Sammlung auswählen" = "Select Collection";
+"Keine Liste vorhanden" = "No List available";
+"Liste erstellen" = "Create List";
+"Liste leer" = "List is empty";
+"Fertig!" = "Finished!";
+"Sammlung leer" = "Collection is empty";
+"Sammlung erstellen" = "Create collection";
+"Richtig!" = "Correct!";
+"Falsch: %@" = "Wrong: %@";
+"Lösung:" = "Solution:";  // Answer?
+"Nächste Vokabel" = "Next Word";
+"Check" = "Check";
+
+/* SelectKategorieVC */
+"Sammlungen" = "Collections";
+"Listen" = "Lists";
+
+// VocView
+"%d/%d sicher" = "%d/%d learned";
+
+
+/* Kategorie */
+
+"Neue Liste" = "New List";
+"Sprache 1" = "German";
+"Sprache 2" = "Spanish";
+"Sprache 3" = "Latin";
+"Sprache 4" = "French";
+"Sprache 5" = "Greek";
+"Sprache 6" = "Portuguese";
+"Sprache 7" = "Russian";
+"Name der Liste:" = "List name:";
+"Hinzufügen" = "Add";
+"Bearbeiten" = "Edit";
+"BearbeitenSprache" = "Edit Languages\/Topics";
+"Sprache\/Thema:" = "Language/Topic:";
+
+/* Vokabelliste */
+
+"Löschen (0)" = "Delete (0)";
+"Löschen (%d)" = "Delete (%d)";
+"Abbrechen" = "Cancel";
+"Aus iTunes importieren" = "Import from iTunes";
+"Via iTunes exportieren" = "Export via iTunes";
+"Via Mail senden" = "Send via Mail";
+"Alle Vokabeln dieser Liste löschen?" = "Delete all words in this list?";
+"Löschen" = "Delete";
+"Vokabel" = "Word";
+"hinzugefügt" = "added";
+"Laden..." = "Loading...";
+"Zu Liste hinzufügen (0)" = "Add to List (0)";
+"Zu Liste hinzufügen (%d)" = "Add to List (%d)";
+
+// remove later
+"Deutsch:" = "English:";
+"Deutsch" = "English";
+
+"Neue Vokabel" = "New Word";
+"Bild hinzufügen" = "Add Picture";
+"Vokabel hinzufügen" = "Add Word";
+"Aus Album auswählen" = "Photo Library";
+"Foto aufnehmen" = "Camera";
+"Foto löschen" = "Delete photo";
+"Neues Foto auswählen" = "Choose new photo";
+"Reminder" = "Reminder";
+"Bild:" = "Picture:";
+"Bild bearbeiten" = "Edit picture";
+
+"Richtig:" = "Correct:";
+"Falsch:" = "Wrong:";
+
+/* File Controller */
+
+"Exportieren" = "Export";
+"Backup exportieren" = "Export Backup to iTunes";
+"Vorhandene Backups anzeigen" = "Show Backups from iTunes";
+"Vorhandene Backups ausblenden" = "Hide Backups from iTunes";
+"Backups" = "Backups";
+"dd-MM-YY HH:mm" = "dd-MM-YY hh:mm a";
+"Backup exportiert" = "Backup finished";
+"Das Backup wurde erfolgreich in iTunes gespeichert." = "Backup was successfully saved in iTunes.";
+
+/* Statistik */
+
+"Statistik" = "Statistics";
+"Sammlung" = "Collection";
+"Liste" = "List";
+":  Noch nicht sicher (%d %%)" = ": Not yet learned (%d %%)";
+"Liste: %@" = "List: %@";
+"Sammlung: %@" = "Collection: %@";
+":  Keine Liste ausgewählt" = ": No List selected";
+":  Sicher (%d %%)" = ": Learned (%d %%)";
+"Anteil richtiger Lösungen insgesamt" = "Relative amount of right solutions";
+
+/* Einstellungen */
+
+"Einstellungen" = "Preferences";
+"Schwellenwert der Vokabeln" = "Vocabulary Threshold";
+"Schwellenwert" = "Threshold";
+"Abfragerichtung" = "Direction of Questioning";
+"Sichere ausblenden" = "Hide learned Words";
+"Sortierung" = "Sorting";
+"Bilder ausblenden" = "Hide Pictures";
+"Backup" = "Backup";
+"Vokabelabfrage" = "Questioning";
+"Datenmanagement" = "Data Management";
+"Muttersprache" = "Native Language";
+"Fremdsprache" = "Foreign Language";
+"Zähler zurücksetzen" = "Reset Counters";
+"Zurücksetzen" = "Reset";
+"Alle zurücksetzen" = "Reset all";
+"Wirklich alle Wörter zurücksetzen?" = "Reset all words?";
+"Wirklich zurücksetzen?" = "Reset chosen words?";
+"Ja" = "Yes";
+"Nein" = "No";
+"Zurücksetzen (%d)" = "Reset (%d)";
+"Zurücksetzen (0)" = "Reset (0)";
+"Name" = "Name";
+"Datum" = "Date";
+"Keine Sortierung" = "No Sorting";
+"Aufsteigend" = "Ascending";
+"Absteigend" = "Descending";
+"Sortierung nach:" = "Sort by:";
+"Richtung:" = "Direction:";
+"Wirklich alle Daten in Vocabularious überschreiben?" = "Overwrite all data in Vocabularious?";
+
+// Sammlung
+
+"Alle Vokabeln dieser Sammlung löschen?" = "Delete all words in this collection?";
+"Neue Sammlung" = "New Collection";
+
+"Fertig" = "Done";
+"Zurück" = "Back";
+"Fremdsprachen" = "Foreign Languages";
+
+"Es dürfen nicht alle Fremdsprachen gelöscht werden!" = "Impossible to delete all foreign languages!";
+"Nicht erlaubt" = "Forbidden";
